@@ -1,31 +1,23 @@
 💫 **About Me**
 
-👋 **Hi, I'm Dan**  
+<small>👋 **Hi, I'm Dan**  
 🚀 DevOps Engineer with a strong background in automation, cloud infrastructure, and web-focused solutions for small businesses.
 
-I combine **DevOps, cloud, and automation** with a solid **design & creative tooling background** to build reliable, scalable, and efficient digital solutions.
+I combine **DevOps, cloud, and automation** with a solid **design & creative tooling background** to build reliable, scalable, and efficient digital solutions.</small>
 
 ---
 
-##### 🧠 What I Do
+<small>##### 🧠 What I Do
 - Design and manage cloud infrastructure for web-based workloads
 - Automate environments using **Infrastructure as Code**
 - Build and maintain **CI/CD pipelines**
 - Support small businesses with **websites, cloud hosting, and optimization**
 - Bridge technical operations with design & automation workflows
+- Microsoft 365 admin & IT Support</small>
 
 ---
 
-##### 🏢 Current Work
-- Preparing to launch a **Web Design & Cloud Solutions** company  
-- Helping small businesses:
-  - Create and optimize websites
-  - Deploy and host web applications in the cloud
-  - Improve performance, reliability, and maintainability
-
----
-
-##### 🛠️ Tech Stack
+<small>##### 🛠️ Tech Stack
 
 ###### ☁️ Cloud & Infrastructure
 - AWS
@@ -45,11 +37,11 @@ I combine **DevOps, cloud, and automation** with a solid **design & creative too
 ###### 🖥️ Systems
 - Linux (Ubuntu)
 - macOS
-- Windows
+- Windows</small>
 
 ---
 
-##### 🎨 Design, Automation & Creative Tech
+<small>##### 🎨 Design, Automation & Creative Tech
 
 **Photoshop (Professional Background)**
 - Advanced Photoshop workflows
@@ -68,35 +60,35 @@ I combine **DevOps, cloud, and automation** with a solid **design & creative too
 - Focus on:
   - Automation-driven workflows
   - Efficiency & production optimization
-  - Practical, real-world use cases
+  - Practical, real-world use cases</small>
 
 ---
 
-##### 🤖 Workflow Automation & AI
+<small>##### 🤖 Workflow Automation & AI
 - n8n workflows
 - API-based automation
 - Early-stage AI integrations
 - Actively learning and expanding skills in:
   - AI-assisted workflows
-  - Automation for business processes
+  - Automation for business processes</small>
 
 ---
 
-##### 📌 Current Focus
+<small>##### 📌 Current Focus
 - DevOps for web platforms and small businesses
 - Cloud & infrastructure automation
 - Workflow automation with n8n and AI tools
-- Bridging **DevOps + Design + Automation**
+- Bridging **DevOps + Design + Automation**</small>
 
 ---
 
-##### 🌐 Socials
+<small>##### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/over.ex.posed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danbutuc/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danbutuc/)</small>
 
 ---
 
-##### 💻 Tech Stack
+<small>##### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -116,11 +108,11 @@ I combine **DevOps, cloud, and automation** with a solid **design & creative too
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</small>
 
 ---
 
-##### 📊 GitHub Stats
+<small>##### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=theDanButuc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=theDanButuc&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=theDanButuc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theDanButuc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</small>
