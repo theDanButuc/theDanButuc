@@ -29,6 +29,7 @@ I combine **DevOps, cloud, and automation** with a solid **design & creative too
 - Jenkins
 - Ansible
 - n8n
+- trigger.dev
 
 ###### 📦 Containers
 - Docker
