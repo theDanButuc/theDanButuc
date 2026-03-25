@@ -53,7 +53,7 @@ I specialize in **AI-powered automation**, **cloud infrastructure**, **web desig
 ###### 🌐 Web & Frontend
 - WordPress (Astra + Elementor)
 - React
-- HTML5 / CSS3
+- HTML5 / CSS
 - SVG (animations, design systems)
 - Responsive Design
 
@@ -101,5 +101,5 @@ I specialize in **AI-powered automation**, **cloud infrastructure**, **web desig
 
 ##### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=theDanButuc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=theDanButuc&theme=transparent&hide_border=false)  
+![](https://streak-stats.demolab.com/?user=theDanButuc&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=theDanButuc&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
