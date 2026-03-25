@@ -34,7 +34,7 @@ I specialize in **AI-powered automation**, **cloud infrastructure**, **web desig
 - Terraform
 - CloudFormation
 - Docker / Docker Compose
-- Kubernetes (fundamentals)
+- Kubernetes
 
 ###### 🤖 Automation & Workflow
 - n8n
