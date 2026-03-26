@@ -14,7 +14,6 @@ I specialize in **AI-powered automation**, **cloud infrastructure**, **web desig
 - **SVG & Animation** — Build custom SVG components, scroll-triggered animations, and design system tooling
 - **Native macOS Development** — Create production-grade applications using Swift, SwiftUI, and WebKit
 - **Creative Automation** — Photoshop automation, image processing pipelines, and design workflow optimization
-- Microsoft 365 admin & IT Support
 
 ---
 
